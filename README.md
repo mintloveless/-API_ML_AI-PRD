@@ -3,6 +3,7 @@
 ## 微信小程序
 ---
 Target relese|2019
+---|:--:|---:
 Ecip|课堂笔记
 Document onwer|罗雅琴
 Designer|罗雅琴
