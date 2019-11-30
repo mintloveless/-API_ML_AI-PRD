@@ -61,8 +61,8 @@ QA|罗雅琴
 
 
 ### 原型3.原型文档
-#### [产品原型&架构展示](http://http://nfunm063.gitee.io/api_ml_ai_product_prototype)
-#### [原型下载](http://https://gitee.com/NFUNM063/api_ml_ai_product_prototype)
+#### [产品原型&架构展示](http://nfunm063.gitee.io/api_ml_ai_product_prototype)
+#### [原型下载](https://gitee.com/NFUNM063/api_ml_ai_product_prototype)
 
 ### 原型4.口头操作说明 
 
