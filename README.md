@@ -310,7 +310,7 @@ if __name__=="__main__":
      print(html)
 ```
 - 输出
-![图像文字识别](https://images.gitee.com/uploads/images/2019/1201/154552_ec8a2ea6_1531930.png "屏幕截图.png")
+![图像文字识别](https://images.gitee.com/uploads/images/2019/1201/155639_0b10aa22_1531930.png "屏幕截图.png")
 
 ### API2.使用比较分析
 
