@@ -11,10 +11,7 @@ Develope|罗雅琴
 QA|罗雅琴
 
 ## 价值主张设计
-Pecha Kucha
-<audio id="audio" controls="" preload="none">
-      <source id="mp4" src="http://qiniu.cloud.fandong.me/Music_iP%E8%B5%B5%E9%9C%B2%20-%20%E7%A6%BB%E6%AD%8C%20%28Live%29.mp3">
-      </audio>
+[Pecha Kucha](https://gitee.com/NFUNM063/Pecha-Kucha)
 
 ### 加值宣言
 ---
